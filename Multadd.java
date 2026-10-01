@@ -1,4 +1,4 @@
-public class Multiadd{
+public class Multadd{
 	public static void main(String[] args){
 		System.out.println(multadd(1.0, 2.0, 3.0));
 		System.out.println(multadd(1.0, Math.cos(Math.PI/4), Math.sin(Math.PI/4)));
